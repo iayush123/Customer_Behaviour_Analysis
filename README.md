@@ -2,7 +2,7 @@
 Its an project Based on Customer Behaviour Analysis to Increase saturation of customer for the brands
 
 
-Project Summary
+#Project Summary
 
 Analyzed 3,900+ customer transactions to identify patterns in purchasing behavior, customer segmentation, and revenue drivers.
 Used Python, SQL, and Power BI to transform raw data into actionable business insights.
